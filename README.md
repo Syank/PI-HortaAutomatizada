@@ -1,5 +1,5 @@
 # PI-HortaAutomatizada
-Projeto Integrador - Fatec 1º Sem. 2020
+Projeto Integrador - Fatec 1º Sem. 2020 ADS - Turma A
 Tema: Automatização 4.0
 Projeto: Horta Automatizada
 Equipe: 3RAG
